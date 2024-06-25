@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1719280252 source:c:\users\swilf\onedrive\documents\projects\c++\euler\main.cpp
+
+1719280975 source:c:\users\swilf\onedrive\documents\projects\c++\euler\src\graph.cpp
+	"Graph.h"
+
+1719280975 c:\users\swilf\onedrive\documents\projects\c++\euler\include\graph.h
+	<iostream>
+	<vector>
+	<map>
+	<set>
+	<string>
+	<algorithm>
+
+1719280987 source:c:\users\swilf\onedrive\documents\projects\c++\euler\src\reader.cpp
+	"Reader.h"
+
+1719280987 c:\users\swilf\onedrive\documents\projects\c++\euler\include\reader.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<map>
+
